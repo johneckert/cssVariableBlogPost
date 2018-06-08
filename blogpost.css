@@ -3,6 +3,10 @@
   --aqua: #7cdbd5;
 }
 
+body {
+  padding: 50px;
+}
+
 .first-scope {
   --red-orange: #f15a29;
 }
