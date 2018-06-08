@@ -1,0 +1,30 @@
+:root {
+  --wave: #494a47;
+  --aqua: #7cdbd5;
+}
+
+.first-scope {
+  --red-orange: #f15a29;
+  --white: #ffffff;
+}
+
+.second-scope {
+  --royal: #4484ce;
+  --mellow-yellow: #fedc3d;
+}
+
+h1 {
+  color: var(--wave);
+}
+
+.li-one {
+  color: var(--aqua);
+}
+
+.li-two {
+  color: var(--red-orange);
+}
+
+.li-three {
+  color: var(--mellow-yellow);
+}
