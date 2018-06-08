@@ -5,11 +5,9 @@
 
 .first-scope {
   --red-orange: #f15a29;
-  --white: #ffffff;
 }
 
 .second-scope {
-  --royal: #4484ce;
   --mellow-yellow: #fedc3d;
 }
 
